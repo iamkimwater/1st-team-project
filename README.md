@@ -1,14 +1,10 @@
-# **1st Team Project**
+# **1st Team Project 웹 서비스 프로젝트**
 
 <br>
 <p align="center"><img width="500" alt="elice@2x" src="https://user-images.githubusercontent.com/97582839/177148531-741ba76e-6ada-4d9c-a5f6-1a494c6e7efd.png"></p>
 <br>
 
-## **웹 서비스 프로젝트**
-
-<br>
-
-### **프로젝트 개요**
+## **프로젝트 개요**
 	html, css, javascript, Node.js, React.js 를 활용하여 실제 웹 서비스를 제작
 
 <br>
