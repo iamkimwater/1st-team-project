@@ -5,12 +5,11 @@
 <br>
 
 ## **웹 서비스 프로젝트**
----
 
 <br>
 
 ### **프로젝트 개요**
-	 html, css, javascript, Node.js, React.js 를 활용하여 실제 웹 서비스를 제작
+	html, css, javascript, Node.js, React.js 를 활용하여 실제 웹 서비스를 제작
 
 <br>
 
