@@ -1,7 +1,11 @@
 # **웹 서비스 프로젝트**
-
 <br>
 <p align="center"><img width="500" alt="elice@2x" src="https://user-images.githubusercontent.com/97582839/177148531-741ba76e-6ada-4d9c-a5f6-1a494c6e7efd.png"></p>
+<br>
+
+## **포지션**
+> Front-end / Award MVP 구현
+
 <br>
 
 ## **프로젝트 개요**
@@ -47,4 +51,7 @@
 - ### **2주차 (자율)**
 	> 완성한 포트폴리오 웹 서비스에 기능 추가 또는 개선하며 확장 및 고도화
 
-	
+<br>
+
+## **참고**
+- [`노션 팀페이지`](https://www.notion.so/elice/23-15359fb0afee42bf9cd227b9b276eb10)
