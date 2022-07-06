@@ -1,6 +1,10 @@
 # **웹 서비스 프로젝트**
 <br>
-<p align="center"><img width="500" alt="elice@2x" src="https://user-images.githubusercontent.com/97582839/177148531-741ba76e-6ada-4d9c-a5f6-1a494c6e7efd.png"></p>
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/97582839/177148531-741ba76e-6ada-4d9c-a5f6-1a494c6e7efd.png" style="width:50%">
+</p>
+
 <br>
 
 ## **포지션**
