@@ -4,7 +4,7 @@
 <br>
 
 ## **포지션**
-> Front-end / Award MVP 구현
+> `Front-end` / `Award MVP 구현`
 
 <br>
 
