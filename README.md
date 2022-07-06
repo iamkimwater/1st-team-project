@@ -46,7 +46,7 @@
 - ### **1주차 (공통)**
 	> User MVP에 이어 나머지 4개 MVP를 완성
 
-	- Award MVP (수상 이력)
+	- Award MVP (수상 이력) ✔️
 	- Certificate MVP (자격증)
 	- Education MVP (학력)
 	- Project MVP (프로젝트)
